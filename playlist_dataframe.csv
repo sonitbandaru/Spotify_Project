@@ -1,0 +1,78 @@
+,name,album,artist,explicit,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,valence,year
+13,Dancing Queen,Arrival,ABBA,False,1976-01-01,230400,83,1976,0.358,0.543,0.87,0.000939,0.792,-6.514,0.0428,100.804,4,1976
+40,Rock Your Body,Justified,Justin Timberlake,False,2002-11-04,267266,76,2002-11-04,0.201,0.892,0.714,0.000234,0.0521,-6.055,0.141,100.972,4,2002
+18,Hey Ya!,Speakerboxxx/The Love Below,Outkast,False,2003-01-01,235213,81,2003,0.103,0.727,0.974,0.000532,0.174,-2.261,0.0664,79.526,4,2003
+30,Crazy In Love (feat. Jay-Z),Dangerously In Love,Beyoncé,False,2003-06-24,236133,76,2003-06-24,0.00249,0.646,0.77,0.0,0.0715,-6.596,0.226,99.165,4,2003
+28,Move Your Feet,d-d-don't don't stop the beat (Explicit Content U.S. Version),Junior Senior,False,2003-07-25,181906,61,2003-07-25,0.0507,0.755,0.895,0.0737,0.222,-2.619,0.0883,118.871,4,2003
+68,Since U Been Gone,Breakaway,Kelly Clarkson,False,2004-01-17,188960,72,2004-01-17,0.00165,0.662,0.741,0.0303,0.114,-5.406,0.0334,131.0,4,2004
+61,Yeah! (feat. Lil Jon & Ludacris),Confessions (Expanded Edition),Usher,False,2004-03-23,250373,82,2004-03-23,0.0183,0.894,0.791,0.0,0.0388,-4.699,0.112,105.018,4,2004
+4,Mr. Brightside,Hot Fuss,The Killers,False,2004-06-15,222586,52,2004-06-15,0.00101,0.356,0.924,0.0,0.0953,-3.74,0.0808,148.017,4,2004
+56,Gasolina,Barrio Fino (Bonus Track Version),Daddy Yankee,False,2004-07-13,192600,81,2004-07-13,0.322,0.852,0.797,2.69e-06,0.0845,-6.543,0.0614,96.008,4,2004
+64,Temperature,The Trinity,Sean Paul,False,2005-09-26,218573,79,2005-09-26,0.106,0.951,0.6,0.0,0.0712,-4.675,0.0685,125.04,4,2005
+53,Hips Don't Lie (feat. Wyclef Jean),"Oral Fixation, Vol. 2 (Expanded Edition)",Shakira,False,2005-11-28,218093,83,2005-11-28,0.284,0.778,0.824,0.0,0.405,-5.892,0.0707,100.024,4,2005
+57,Promiscuous,Loose,Nelly Furtado,False,2006-01-01,242293,82,2006-01-01,0.0569,0.808,0.97,6.13e-05,0.154,-6.098,0.0506,114.328,4,2006
+50,SexyBack (feat. Timbaland),FutureSex/LoveSounds,Justin Timberlake,True,2006-09-12,242733,77,2006-09-12,0.0584,0.967,0.583,0.0,0.0519,-5.562,0.0789,117.0,4,2006
+41,Beautiful Girls,Beautiful Girls,Sean Kingston,False,2007-07-23,225373,78,2007-07-23,0.15,0.762,0.661,0.0,0.256,-6.075,0.0687,130.009,4,2007
+35,Flashing Lights,Graduation,Kanye West,True,2007-09-11,237506,82,2007-09-11,0.0381,0.639,0.628,0.0,0.386,-7.578,0.0399,90.482,4,2007
+75,Just Dance,The Fame,Lady Gaga,False,2008-01-01,241933,74,2008-01-01,0.0264,0.822,0.739,4.26e-05,0.181,-4.541,0.0311,118.992,4,2008
+66,Kiss Me Thru The Phone,iSouljaBoyTellem,Soulja Boy,False,2008-01-01,193386,76,2008-01-01,0.0185,0.758,0.712,0.0,0.0677,-3.781,0.112,149.998,4,2008
+52,Paparazzi,The Fame,Lady Gaga,False,2008-01-01,208306,69,2008-01-01,0.113,0.762,0.692,0.0,0.094,-3.973,0.0438,114.906,4,2008
+62,Low (feat. T-Pain),Mail on Sunday,Flo Rida,False,2008-03-17,231400,80,2008-03-17,0.0928,0.918,0.609,0.0,0.139,-5.64,0.0791,128.008,4,2008
+63,Whatever You Like,Paper Trail,T.I.,True,2008-09-07,249533,74,2008-09-07,0.0161,0.68,0.687,0.0,0.261,-6.162,0.0709,150.053,4,2008
+69,Sex on Fire,Only By The Night,Kings of Leon,False,2008-09-23,203346,81,2008-09-23,0.00172,0.542,0.905,0.0104,0.136,-5.653,0.054,153.398,4,2008
+31,Suavemente,Suavemente...Los Exitos,Elvis Crespo,False,2008-10-14,266306,66,2008-10-14,0.238,0.809,0.883,0.00234,0.0625,-2.965,0.0689,124.096,4,2008
+48,I Gotta Feeling,THE E.N.D. (THE ENERGY NEVER DIES),Black Eyed Peas,False,2009-01-01,289133,73,2009-01-01,0.0873,0.744,0.766,0.0,0.509,-6.375,0.0265,127.966,4,2009
+17,Party In The U.S.A.,The Time Of Our Lives,Miley Cyrus,False,2009-01-01,202066,76,2009-01-01,0.00112,0.652,0.698,0.000115,0.0886,-4.667,0.042,96.021,4,2009
+29,Memories (feat. Kid Cudi),One Love (Deluxe),David Guetta,False,2009-08-21,210093,68,2009-08-21,0.0015,0.561,0.87,2.82e-06,0.246,-6.103,0.343,129.98,4,2009
+32,Sexy Bitch (feat. Akon),One Love (Deluxe),David Guetta,True,2009-08-21,195853,66,2009-08-21,0.0771,0.813,0.627,0.000616,0.131,-5.018,0.0486,130.011,4,2009
+22,Hotel Room Service,Pitbull Starring In Rebelution,Pitbull,False,2009-08-31,237640,73,2009-08-31,0.00705,0.851,0.629,0.000372,0.0746,-8.385,0.175,125.984,4,2009
+43,Fire Burning,Tomorrow,Sean Kingston,False,2009-09-07,239986,71,2009-09-07,0.0192,0.839,0.804,0.0,0.331,-2.513,0.0329,122.973,4,2009
+11,Empire State Of Mind,The Blueprint 3,JAY-Z,True,2009-09-08,276920,82,2009-09-08,0.0295,0.491,0.956,0.0,0.46,-1.538,0.392,173.585,4,2009
+12,Pursuit Of Happiness (Nightmare),Man On The Moon: The End Of Day,Kid Cudi,True,2009-09-15,295293,74,2009-09-15,0.484,0.63,0.605,9.29e-05,0.298,-8.951,0.0414,115.277,4,2009
+21,S&M,Loud (Japan Version),Rihanna,False,2010-01-01,243600,76,2010-01-01,0.0105,0.769,0.684,0.000125,0.0887,-5.019,0.0411,127.972,4,2010
+19,I Like It,Euphoria (Standard US/Latin version),Enrique Iglesias,False,2010-01-01,231786,66,2010-01-01,0.0209,0.646,0.94,0.0,0.0691,-2.856,0.0838,129.011,4,2010
+74,What's My Name?,Loud (Japan Version),Rihanna,False,2010-01-01,263173,71,2010-01-01,0.182,0.689,0.784,0.0,0.0843,-2.972,0.074,99.954,4,2010
+27,Danza Kuduro,Meet The Orphans,Don Omar,False,2010-01-01,198773,78,2010-01-01,0.0846,0.4,0.915,0.0,0.0503,-4.89,0.28,88.917,3,2010
+72,Ridin' Solo,Jason Derulo,Jason Derulo,False,2010-02-24,215746,65,2010-02-24,0.128,0.442,0.83,0.0,0.129,-4.02,0.146,89.338,4,2010
+7,The Spins,K.I.D.S.,Mac Miller,True,2010-08-13,195873,82,2010-08-13,0.0135,0.794,0.766,0.0,0.0785,-3.894,0.0377,127.007,4,2010
+60,Bottoms Up (feat. Nicki Minaj),"Passion, Pain & Pleasure (Deluxe Version)",Trey Songz,True,2010-09-14,242013,72,2010-09-14,0.0205,0.844,0.601,0.0,0.385,-5.283,0.157,73.989,4,2010
+44,Just A Dream,5.0,Nelly,False,2010-11-12,237800,73,2010-11-12,0.0421,0.531,0.752,0.0,0.12,-6.161,0.0305,89.917,4,2010
+55,Club Can't Handle Me (feat. David Guetta),Only One Flo (Part 1),Flo Rida,False,2010-11-24,234560,76,2010-11-24,0.0283,0.616,0.869,0.0,0.064,-3.911,0.0327,127.966,4,2010
+34,On The Floor,LOVE?,Jennifer Lopez,False,2011-01-01,284866,62,2011-01-01,0.108,0.73,0.777,0.000467,0.069,-5.199,0.0479,130.0,4,2011
+10,Starships,Pink Friday ... Roman Reloaded,Nicki Minaj,True,2011-01-01,210626,73,2011-01-01,0.135,0.747,0.716,0.0,0.251,-2.457,0.075,125.008,4,2011
+65,Party Rock Anthem,Sorry For Party Rocking,LMFAO,False,2011-01-01,262173,69,2011-01-01,0.0189,0.75,0.727,0.0,0.266,-4.21,0.142,129.993,4,2011
+36,Hey Baby (Drop It to the Floor) (feat. T-Pain),Planet Pit (Deluxe Version),Pitbull,False,2011-06-17,234453,71,2011-06-17,0.0434,0.595,0.912,0.0,0.259,-3.428,0.0884,128.024,4,2011
+0,"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",Planet Pit (Deluxe Version),Pitbull,False,2011-06-17,252306,81,2011-06-17,0.191,0.671,0.939,0.0,0.298,-3.206,0.161,129.024,4,2011
+76,Play Hard (feat. Ne-Yo & Akon),Nothing but the Beat 2.0,David Guetta,False,2011-08-24,201000,59,2011-08-24,0.174,0.691,0.921,0.0,0.331,-1.702,0.0535,130.072,4,2011
+25,Titanium (feat. Sia),Nothing but the Beat 2.0,David Guetta,False,2011-08-24,245040,68,2011-08-24,0.0678,0.604,0.788,0.153,0.127,-3.673,0.103,126.06,4,2011
+46,Stereo Love,Karaoke Summer Hits,Instrumental,False,2011-09-18,206426,38,2011-09-18,0.0056,0.728,0.392,0.876,0.119,-12.194,0.0406,127.018,4,2011
+14,"Young, Wild & Free (feat. Bruno Mars)","Young, Wild & Free (feat. Bruno Mars)",Snoop Dogg,True,2011-10-11,207333,77,2011-10-11,0.0525,0.715,0.655,0.0,0.115,-6.425,0.137,95.078,4,2011
+3,Levels - Radio Edit,Levels,Avicii,False,2011-10-28,199906,78,2011-10-28,0.0462,0.584,0.889,0.828,0.309,-5.941,0.0343,126.04,4,2011
+39,Timber (feat. Ke$ha),Global Warming: Meltdown (Deluxe Version),Pitbull,False,2012-01-01,204160,81,2012,0.0295,0.581,0.963,0.0,0.139,-4.087,0.0981,129.992,4,2012
+73,Don't Stop the Party (feat. TJR),Global Warming: Meltdown (Deluxe Version),Pitbull,False,2012-01-01,206120,66,2012,0.00726,0.722,0.958,0.0,0.375,-3.617,0.0912,127.008,4,2012
+6,Now Or Never - Bonus Track,"good kid, m.A.A.d city (Deluxe)",Kendrick Lamar,False,2012-01-01,256013,56,2012,0.264,0.528,0.708,0.0,0.308,-5.879,0.207,97.8,4,2012
+23,All Night Longer,All Night Longer,Sammy Adams,True,2012-08-20,177093,61,2012-08-20,0.000652,0.712,0.649,0.0,0.0683,-4.753,0.063,127.028,4,2012
+54,Girl on Fire,Girl on Fire (Remixes) - EP,Alicia Keys,False,2012-11-18,224920,77,2012-11-18,0.135,0.482,0.706,0.00106,0.105,-5.762,0.0607,92.513,4,2012
+2,Die Young,Warrior (Expanded Edition),Kesha,False,2012-11-30,211920,78,2012-11-30,0.00498,0.711,0.7,0.000125,0.215,-4.805,0.046,128.001,4,2012
+47,Still into You,Paramore,Paramore,False,2013-04-05,216013,79,2013-04-05,0.0098,0.602,0.923,0.0,0.0561,-3.763,0.044,136.01,4,2013
+49,We Can't Stop,Bangerz (Deluxe Version),Miley Cyrus,False,2013-10-04,231240,77,2013-10-04,0.00882,0.613,0.622,0.0,0.37,-5.794,0.0334,80.003,4,2013
+5,The Nights,The Days / Nights,Avicii,False,2014-01-01,176658,85,2014-01-01,0.0166,0.527,0.835,0.0,0.249,-5.298,0.0433,125.983,4,2014
+37,Hot N*gga,Hot N*gga,Bobby Shmurda,True,2014-07-25,194561,73,2014-07-25,0.0505,0.794,0.51,1.81e-06,0.0562,-7.314,0.42,167.879,4,2014
+45,Blame (feat. John Newman),Motion,Calvin Harris,False,2014-10-31,212960,76,2014-10-31,0.0287,0.414,0.857,0.00574,0.343,-4.078,0.0808,128.024,4,2014
+38,Time of Our Lives,Globalization,Pitbull,True,2014-11-21,229360,80,2014-11-21,0.0921,0.721,0.802,0.0,0.694,-5.797,0.0583,124.022,4,2014
+9,No Role Modelz,2014 Forest Hills Drive,J. Cole,True,2014-12-09,292799,86,2014-12-09,0.324,0.69,0.521,0.0,0.0534,-8.492,0.339,100.028,4,2014
+58,"Flex (Ooh, Ooh, Ooh)","Flex (Ooh, Ooh, Ooh) - Single",Rich Homie Quan,True,2015-02-10,176744,64,2015-02-10,0.0389,0.726,0.607,0.0,0.19,-7.68,0.0498,81.997,4,2015
+33,Runaway (U & I),Pharmacy,Galantis,False,2015-06-05,227073,74,2015-06-05,0.00711,0.506,0.805,0.00193,0.0856,-4.119,0.0469,126.008,4,2015
+1,Broccoli,Broccoli,DRAM,True,2016-04-06,225205,65,2016-04-06,0.236,0.886,0.525,0.0,0.057,-7.39,0.132,145.99,4,2016
+71,Hotline Bling,Views,Drake,False,2016-05-06,267066,78,2016-05-06,0.00258,0.891,0.628,0.00019,0.0504,-7.863,0.0551,134.966,4,2016
+15,All Night (feat. Knox Fortune),Coloring Book,Chance the Rapper,True,2016-05-27,141542,64,2016-05-27,0.0358,0.704,0.777,0.0,0.151,-5.729,0.195,111.921,4,2016
+16,Take Me Home (feat. Bebe Rexha),"Blood, Sweat & 3 Years",Cash Cash,False,2016-06-24,206320,57,2016-06-24,0.0615,0.571,0.903,1.23e-06,0.186,-2.184,0.214,127.951,4,2016
+8,Do What I Want,The Perfect LUV Tape,Lil Uzi Vert,True,2016-08-10,175203,66,2016-08-10,0.106,0.681,0.701,0.0,0.208,-6.336,0.0767,139.952,4,2016
+20,Jackie Chan,Jackie Chan,Tiësto,True,2018-05-18,215759,72,2018-05-18,0.374,0.747,0.834,0.0,0.0586,-2.867,0.045,128.005,4,2018
+70,Nice For What,Scorpion,Drake,True,2018-06-29,210746,77,2018-06-29,0.0891,0.585,0.909,9.7e-05,0.119,-6.474,0.0707,93.372,4,2018
+59,Losing It,Losing It,FISHER,False,2018-07-13,248035,75,2018-07-13,0.00181,0.76,0.964,0.703,0.0975,-5.844,0.0577,125.003,4,2018
+51,UCLA,NOVA,RL Grime,True,2018-07-27,192000,68,2018-07-27,0.0742,0.536,0.879,0.0,0.0847,-3.019,0.0621,140.137,4,2018
+42,Eenie Meenie - Radio Version,Eenie Meenie EP,Sean Kingston,False,2020-02-28,201973,58,2020-02-28,0.0412,0.718,0.638,0.0,0.169,-3.479,0.031,121.242,4,2020
+67,Goosebumps - Remix,Goosebumps (Remix),Travis Scott,True,2021-01-15,162802,81,2021-01-15,0.418,0.841,0.593,0.0,0.124,-7.846,0.0379,124.917,4,2021
+26,Pepas,Pepas,Farruko,True,2021-06-24,287120,87,2021-06-24,0.00776,0.762,0.766,6.98e-05,0.128,-3.955,0.0343,130.001,4,2021
+24,Way 2 Sexy (with Future & Young Thug),Certified Lover Boy,Drake,True,2021-09-03,257604,80,2021-09-03,0.000619,0.803,0.597,4.5e-06,0.323,-6.035,0.141,136.008,4,2021
