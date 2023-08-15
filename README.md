@@ -1,0 +1,3 @@
+# Spotify_Project
+
+In this project, my goal was to use data analysis and visualization techniques to gain valuable insights with music trends. I used the Spotify API to extract music data and utilized the Pandas library to construct several data frames for further analysis in Python. I designed an interactive application in the App.py file where a user can choose from options of several different plots, such as scatterplots, correlation heat maps, and more based on distinct track features, and it will produce it. I analyzed trends on various artists and albums which revealed audio feature patterns over time and much more. Overall, this project allowed me to analyze music data, revealing trends through visualizations.
